@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container">
-        <h1>Movie</h1>
+        <h1>Movies</h1>
         <table class="table table-dark">
             <thead>
               <tr>
